@@ -124,9 +124,9 @@ Execute the program using runserver command.
         </body>
 </html>
 
-
 ## OUTPUT
-![image](https://github.com/Manoj0079940/slot/assets/149366208/a625870a-5941-4f84-80e5-87df6e8ab6c1)
+![image](https://github.com/Manoj0079940/slot/assets/149366208/a6e5084d-f9f0-4a9d-98ff-16c99dbf61ca)
+
 
 
 
